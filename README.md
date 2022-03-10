@@ -21,6 +21,6 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWW2VVq6VvPuS" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="https://web.dio.me/users/matheusmathias75?tab=achievements" target="_blank"><img src="https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/Matheusmathias/Matheusmathias/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
