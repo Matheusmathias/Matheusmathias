@@ -18,7 +18,9 @@
 <div> 
   <a href="https://www.instagram.com/matheus_magnos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fernandes-8b6586143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DWW2VVq6VvPuS" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href="https://web.dio.me/users/matheusmathias75?tab=achievements" target="_blank"><img src="https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
